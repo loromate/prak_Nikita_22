@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1STWOyfDoAmCD0rjkOoqbhtZDR5Am3PqsXWZDL2pLPshvqlwkLC/f3PXfVGcysyMJoFwqo1JZad5cOEeKhglQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tntbk\\source\\repos\\prak_G_13_Client\\prak_G_13_Client\\prak_G_13_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tntbk\\.nuget\\packages\\octokit\\5.0.0\\octokit.5.0.0.nupkg.sha512",
+    "C:\\Users\\tntbk\\.nuget\\packages\\octokit.reactive\\5.0.0\\octokit.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\tntbk\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\tntbk\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.8\\microsoft.netcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\tntbk\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\tntbk\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\tntbk\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.8\\microsoft.netcore.app.crossgen2.win-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

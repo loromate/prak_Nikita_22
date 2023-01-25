@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kuw3lBdiOgq5zYGpWvr+lQjdJVw6smXSWhU7b4Mj9y/A4Y7+nfTo2CJ478BKGhRVEZKPLkAzAF6+bEijylWaTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Никита\\Desktop\\prak_G_13_Client-master\\prak_G_13_Client\\prak_G_13_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Никита\\.nuget\\packages\\octokit\\5.0.0\\octokit.5.0.0.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\octokit.reactive\\5.0.0\\octokit.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
