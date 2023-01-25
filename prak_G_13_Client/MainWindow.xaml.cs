@@ -59,7 +59,7 @@ namespace prak_G_13_Client
         }
         private async Task<Version> Get_Latest_Version()
         {
-            GitHubClient gitHubClient = new GitHubClient(new ProductHeaderValue("gdrtfgdxzfhdgxfhngxfdar;fkljng;'kl"));
+            GitHubClient gitHubClient = new GitHubClient(new ProductHeaderValue("dgfcghdfhd"));
             var releases = gitHubClient.Repository.Release.GetLatest("loromate", "prak_Nikita_22");
             var latestVersion = new Version(releases.Result.Name.Remove(0, 1));
             return latestVersion;
