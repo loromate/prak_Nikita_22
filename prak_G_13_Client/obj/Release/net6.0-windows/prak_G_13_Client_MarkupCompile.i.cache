@@ -1,20 +1,20 @@
 ﻿prak_G_13_Client
-0.0.0.16
+0.0.0.1
 
 winexe
 C#
 .cs
-C:\Users\tntbk\source\repos\prak_G_13_Client\prak_G_13_Client\obj\Release\net6.0-windows\
+C:\Users\Никита\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\
 prak_G_13_Client
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\tntbk\source\repos\prak_G_13_Client\prak_G_13_Client\App.xaml
+C:\Users\Никита\Desktop\prak_G_13_Client-master\prak_G_13_Client\App.xaml
 11407045341
 
 7-511103650
-197-1833748160
+197-489804855
 MainWindow.xaml;
 
-True
+False
 

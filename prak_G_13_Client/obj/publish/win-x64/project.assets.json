@@ -163,23 +163,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tntbk\\.nuget\\packages\\": {},
-    "d:\\vssdk\\NuGetPackages": {}
+    "C:\\Users\\Никита\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tntbk\\Source\\Repos\\prak_G_13_Client\\prak_G_13_Client\\prak_G_13_Client.csproj",
+      "projectUniqueName": "C:\\Users\\Никита\\Desktop\\prak_G_13_Client-master\\prak_G_13_Client\\prak_G_13_Client.csproj",
       "projectName": "prak_G_13_Client",
-      "projectPath": "C:\\Users\\tntbk\\Source\\Repos\\prak_G_13_Client\\prak_G_13_Client\\prak_G_13_Client.csproj",
-      "packagesPath": "C:\\Users\\tntbk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tntbk\\Source\\Repos\\prak_G_13_Client\\prak_G_13_Client\\obj\\publish\\win-x64\\",
+      "projectPath": "C:\\Users\\Никита\\Desktop\\prak_G_13_Client-master\\prak_G_13_Client\\prak_G_13_Client.csproj",
+      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Никита\\Desktop\\prak_G_13_Client-master\\prak_G_13_Client\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "d:\\vssdk\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tntbk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -225,19 +225,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[6.0.8, 6.0.8]"
+            "version": "[6.0.9, 6.0.9]"
           },
           {
             "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-            "version": "[6.0.8, 6.0.8]"
+            "version": "[6.0.9, 6.0.9]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[6.0.8, 6.0.8]"
+            "version": "[6.0.9, 6.0.9]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[6.0.8, 6.0.8]"
+            "version": "[6.0.9, 6.0.9]"
           }
         ],
         "frameworkReferences": {
@@ -248,7 +248,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
