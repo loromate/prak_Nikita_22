@@ -63,6 +63,16 @@ namespace prak_G_13_Client.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] egr {
+            get {
+                object obj = ResourceManager.GetObject("egr", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] Updater {
             get {
                 object obj = ResourceManager.GetObject("Updater", resourceCulture);

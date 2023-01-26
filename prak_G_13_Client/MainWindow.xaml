@@ -9,6 +9,6 @@
     <Grid>
         <TextBlock Panel.ZIndex="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.8</TextBlock>
         <Button Panel.ZIndex="1" Width="250" Height="30" VerticalAlignment="Bottom">Привет</Button>
-        <Image Panel.ZIndex="0" Source="/egr.jpg" Stretch="Fill"/>
+        <Image Source="/Resources/egr.jpg" Stretch="Fill"/>
     </Grid>
 </Window>
