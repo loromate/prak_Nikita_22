@@ -7,8 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Panel.ZIndex="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.9</TextBlock>
-        <Button Panel.ZIndex="1" Width="250" Height="30" VerticalAlignment="Bottom">Привет</Button>
-        <Image Source="/Resources/egr.jpg" Stretch="Fill"/>
+        <!--<TextBlock Panel.ZIndex="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.99</TextBlock>
+        <Button Panel.ZIndex="1" Width="250" Height="30" VerticalAlignment="Bottom">Привет</Button>-->
+        <!--<Image Source="/Resources/egr.jpg" Stretch="Fill" Height="450" Width="800"/>-->
+        <Image Source="/Resources/witch_doctor.png" VerticalAlignment="Center" HorizontalAlignment="Center" Width="400" Height="400"/>
+
     </Grid>
 </Window>
