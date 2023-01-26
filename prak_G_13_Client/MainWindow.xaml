@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.6</TextBlock>
-        <Button Width="250" Height="30" VerticalAlignment="Bottom"></Button>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.7</TextBlock>
+        <Button Width="250" Height="30" VerticalAlignment="Bottom">Привет</Button>
     </Grid>
 </Window>
