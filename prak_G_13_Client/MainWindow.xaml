@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.7</TextBlock>
-        <Button Width="250" Height="30" VerticalAlignment="Bottom">Привет</Button>
+        <TextBlock Panel.ZIndex="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.8</TextBlock>
+        <Button Panel.ZIndex="1" Width="250" Height="30" VerticalAlignment="Bottom">Привет</Button>
+        <Image Panel.ZIndex="0" Source="/egr.jpg" Stretch="Fill"/>
     </Grid>
 </Window>
