@@ -64,6 +64,15 @@ namespace prak_G_13_Client
             var latestVersion = new Version(releases.Result.Name.Remove(0, 1));
             return latestVersion;
         }
-        
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Random ran = new Random();
+
+            int a = ran.Next(1000, 9999);
+            Color col = (Color)ColorConverter.ConvertFromString("#"+a.ToString());
+            Brush br = new SolidColorBrush(col);
+            (sender as Button).Background = br;
+        }
     }
 }
