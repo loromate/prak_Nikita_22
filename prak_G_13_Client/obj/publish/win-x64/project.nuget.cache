@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ngTCEoY5NzLXirqMExL0LC6xm5s8HPP0R0O9HN7qxEMSDOU9GHFe/HriCjpnmLrk+tVXViXFj0JyDtOgGsOOMA==",
+  "dgSpecHash": "w+njL+3NncMcAJdLmQ7+uowl7m6bhF3uAWq9VjyNV+h6zhxM1X4OHLn8XNtjMS9NtEiwuVzP+yE/8JmUiP+BOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Никита\\Desktop\\prak_G_13_Client-master\\prak_G_13_Client\\prak_G_13_Client.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\prak_G_13_Client-master\\prak_G_13_Client\\prak_G_13_Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Никита\\.nuget\\packages\\octokit\\5.0.0\\octokit.5.0.0.nupkg.sha512",
-    "C:\\Users\\Никита\\.nuget\\packages\\octokit.reactive\\5.0.0\\octokit.reactive.5.0.0.nupkg.sha512",
-    "C:\\Users\\Никита\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
-    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
-    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
-    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
-    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\octokit\\5.0.0\\octokit.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\octokit.reactive\\5.0.0\\octokit.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
   ],
   "logs": []
 }
