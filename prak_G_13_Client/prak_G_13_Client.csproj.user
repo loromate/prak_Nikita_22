@@ -3,4 +3,20 @@
   <PropertyGroup>
     <_LastSelectedProfileId>C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Authorizpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Errorpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Authorizpage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Errorpage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
 </Project>

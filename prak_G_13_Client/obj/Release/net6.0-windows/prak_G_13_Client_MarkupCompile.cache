@@ -1,5 +1,5 @@
 ﻿prak_G_13_Client
-0.0.0.10
+0.0.0.11
 
 winexe
 C#
@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\App.xaml
-11407045341
+3-1567875354
 
-51860370096
-197-657900744
-MainWindow.xaml;
+91492319514
+200171843005
+Authorizpage.xaml;Errorpage.xaml;MainWindow.xaml;
 
 False
 

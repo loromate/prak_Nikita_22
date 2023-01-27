@@ -100,3 +100,10 @@ C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.
 C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\prak_G_13_Client.pdb
 C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\prak_G_13_Client.genruntimeconfig.cache
 C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\ref\prak_G_13_Client.dll
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\Authorizpage.g.cs
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\Errorpage.g.cs
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\Authorizpage.baml
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\obj\Release\net6.0-windows\Errorpage.baml
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\bin\Release\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\prak_G_13_Client-master\prak_G_13_Client\bin\Release\net6.0-windows\Newtonsoft.Json.Bson.dll

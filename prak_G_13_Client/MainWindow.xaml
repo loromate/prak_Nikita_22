@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Panel.ZIndex="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="100">v0.11</TextBlock>
-        <Button Panel.ZIndex="1" Width="250" Height="30" VerticalAlignment="Bottom" Click="Button_Click">Я цвет</Button>
+        <Frame x:Name="mainframe" NavigationUIVisibility="Hidden" VerticalAlignment="Top" Height="400" ></Frame>
+        <TextBlock Height="30" Width="200" VerticalAlignment="Bottom" HorizontalAlignment="Left" FontSize="20" Padding="30 0 0 0" >v0.0.0.12</TextBlock>
+        <!--<Button Panel.ZIndex="1" Width="250" Height="30" VerticalAlignment="Bottom" Click="Button_Click">Я цвет</Button>-->
     </Grid>
 </Window>

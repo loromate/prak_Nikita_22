@@ -56,6 +56,8 @@ namespace prak_G_13_Client
             catch { }
             
             InitializeComponent();
+            mainframe.NavigationService.Navigate(new Authorizpage());
+            Data.mainframe = mainframe;
         }
         private async Task<Version> Get_Latest_Version()
         {
